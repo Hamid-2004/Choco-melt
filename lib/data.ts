@@ -175,11 +175,11 @@ export const testimonials = [
 
 export const instagramImages = [
   "/images/instagram post 1.jpeg",
-  "/images/instagram post 4.jpeg",
-  "/images/instagram post 3.jpeg",
   "/images/instagram post 2.jpeg",
-  "/images/apron .jpeg",
-  "/images/why choose us.jpeg",
+  "/images/instagram post 4.jpeg",
+  "/images/instagram post 5.jpeg",
+  "/images/apron.jpeg",
+  "/images/Hero section chocomelt.jpeg",
 ];
 
 export const footerLinks = {
