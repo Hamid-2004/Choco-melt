@@ -9,10 +9,10 @@ import { fadeRight, fadeUp, staggerContainer } from "@/lib/animations";
 import { getWhatsAppUrl } from "@/lib/whatsapp";
 
 const avatars = [
-  "/images/Hero section chocomelt.jpeg",
-  "/images/Hero section chocomelt.jpeg",
-  "/images/Hero section chocomelt.jpeg",
-  "/images/Hero section chocomelt.jpeg",
+  "/images/Hero-section-chocomelt.jpeg",
+  "/images/Hero-section-chocomelt.jpeg",
+  "/images/Hero-section-chocomelt.jpeg",
+  "/images/Hero-section-chocomelt.jpeg",
 ];
 
 export default function Hero() {
