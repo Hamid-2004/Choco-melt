@@ -121,7 +121,7 @@ export default function Hero() {
           <div className="relative w-full h-full">
   <div className="absolute inset-4 sm:inset-8 rounded-[2rem] overflow-hidden shadow-2xl shadow-primary/15">
     <Image
-      src="/images/Hero section chocomelt.jpeg"
+      src="/images/Hero-section-chocomelt.jpeg"
       alt="Choco Melt Premium Cookies"
       fill
       className="object-cover object-center"
